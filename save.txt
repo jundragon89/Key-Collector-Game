@@ -1,0 +1,39 @@
+turn:
+8
+keyCount:
+5
+Pinkey
+location:
+3 7
+Donkey
+location:
+1 0
+Key Disk
+location:
+7 7
+Key Note
+location:
+5 8
+Monkey
+location:
+6 4
+playerCount:
+4
+Naruto
+location:
+4 3
+1
+Donkey
+Sasuke
+location:
+3 5
+0
+Sakura
+location:
+7 3
+0
+Kakashi
+location:
+7 5
+1
+Key Disk
