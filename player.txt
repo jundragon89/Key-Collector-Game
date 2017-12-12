@@ -1,0 +1,23 @@
+4
+Naruto
+picture/1.png
+2 2 2 2 2 2 2 2 false
+0 0
+Sasuke
+picture/2.png
+2 2 2 2 2 2 2 2 false
+0 8
+Sakura
+picture/3.png
+2 2 2 2 2 2 2 2 false
+8 0
+Kakashi
+picture/4.png
+2 2 2 2 2 2 2 2 false
+8 8
+
+//player size
+//player name
+//player icon path
+//player movement pattern
+//location
