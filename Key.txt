@@ -1,0 +1,27 @@
+5
+Pinkey
+picture/a.png
+1 1 1 1 1 1 1 1 false
+Can only move 1 square in any direction.
+Donkey
+picture/b.png
+0 0 0 0 3 3 3 3 false
+Can move up to 3 squares diagonally, but cannot move horizontally or vertically.
+Key Disk
+picture/c.png
+3 3 3 3 0 0 0 0 false
+Can move up to 3 squares horizontally or vertically, but cannot move diagonally.
+Key Note
+picture/d.png
+2 2 2 2 2 2 2 2 true
+Must move 2 squares in any direction (skip 1 square.)
+Monkey
+picture/e.png
+3 3 3 3 3 3 3 3 false
+Can move up to 3 squares in any direction.
+
+//key size
+//key name
+//key icon path
+//key movement pattern
+//key description
